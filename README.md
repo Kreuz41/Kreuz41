@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Kreuz41/Kreuz41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C# Web Developer with over 3 years of professional experience in various domains like outsourcing, outstaffing, and product development.
+💻 Tech Stack:
 
-Here are some ideas to get you started:
+    Languages:
+    Frameworks:
+    Databases:
+    Caching:
+    Messaging:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Workflows I Use:
+
+    Version Control: Git
+    CI/CD: Docker, Jenkins
+    Cloud: AWS, Azure
+
+💼 What I Do:
+
+I develop and optimize web applications and services using C# and ASP.NET. My experience ranges from building scalable product-based solutions to collaborating on various outsourcing and outstaffing projects.
+🌱 What I'm Learning:
+
+I'm constantly learning about new technologies and expanding my knowledge in areas like cloud computing and microservices architecture.
+📫 Let's Connect:
+
+    LinkedIn
+    Email
+
+Thanks for stopping by! Let's build something awesome together! 🚀
