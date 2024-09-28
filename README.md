@@ -11,7 +11,7 @@ I develop and optimize web applications and services using C# and ASP.NET. My ex
 3) Methods for optimizing code writing
 
 ## 📫 Let's Connect:
-(Preferably) Telegram: @kreu2e
+(Preferably) Telegram: @kreu2e\n
 Email: kreuzework@gmail.com
 
 Thanks for stopping by! Let's build something awesome together! 🚀
